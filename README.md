@@ -1,10 +1,10 @@
 # 💜 Chayper Zero Pro 
-> **Professional Lua Decompiler & Analysis Suite**
+> **Professional Lua Decompiler & Analysis Suite**  
 > **المجموعة الاحترافية لفك تشفير وتحليل لغة لووا**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/Version-2.0.0--Pro-blueviolet.svg)]()
-[![Python](https://img.shared.io/badge/Python-3.11+-blue.svg)]()
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)]()
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## ✨ Features | المميزات
 
-| Feature | الوصف | الميزة |
+| Feature | Description | الميزة |
 | :--- | :---: | ---: |
 | **High-Speed Decompilation** | فك تشفير سريع ودقيق للغاية | **سرعة فك التشفير** |
 | **Modern Dark UI** | واجهة عصرية بنظام الداكن المريح | **واجهة مستخدم حديثة** |
@@ -32,12 +32,10 @@
 ## 📸 Screenshots | صور الأداة
 
 ### 1️⃣ Main Dashboard | لوحة التحكم
-![Main Console](<img width="1311" height="898" alt="image" src="https://github.com/user-attachments/assets/94eff307-b91f-4c54-8659-97b2db9f0146" />
-)
+![Main Dashboard](https://github.com/user-attachments/assets/94eff307-b91f-4c54-8659-97b2db9f0146)
 
 ### 2️⃣ Analysis Mode | وضع التحليل
-![Analysis Mode](<img width="1308" height="879" alt="image" src="https://github.com/user-attachments/assets/d5bc6757-3a15-416e-b5ae-e372116f50d4" />
-)
+![Analysis Mode](https://github.com/user-attachments/assets/d5bc6757-3a15-416e-b5ae-e372116f50d4)
 
 ---
 
@@ -72,4 +70,3 @@
 ---
 
 **Developed with ❤️ by ChayperZ**
-**تم التطوير بكل حب بواسطة ChayperZ**
