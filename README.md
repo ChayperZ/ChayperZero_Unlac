@@ -32,10 +32,12 @@
 ## 📸 Screenshots | صور الأداة
 
 ### 1️⃣ Main Dashboard | لوحة التحكم
-![Main Console](https://raw.githubusercontent.com/ChayperZ/Chayper-Zero/main/image_500c64.png)
+![Main Console](<img width="1311" height="898" alt="image" src="https://github.com/user-attachments/assets/94eff307-b91f-4c54-8659-97b2db9f0146" />
+)
 
 ### 2️⃣ Analysis Mode | وضع التحليل
-![Analysis Mode](https://raw.githubusercontent.com/ChayperZ/Chayper-Zero/main/image_500c85.png)
+![Analysis Mode](<img width="1308" height="879" alt="image" src="https://github.com/user-attachments/assets/d5bc6757-3a15-416e-b5ae-e372116f50d4" />
+)
 
 ---
 
