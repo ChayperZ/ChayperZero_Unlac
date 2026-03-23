@@ -48,9 +48,7 @@
 
 | Main Dashboard | Analysis Mode |
 | :---: | :---: |
-|<img width="1294" height="869" alt="image" src="https://github.com/user-attachments/assets/0752a002-4b12-4663-8abf-c51eb3871b3c" />
- | <img width="1307" height="883" alt="image" src="https://github.com/user-attachments/assets/232efc16-46f6-4992-9908-7f68957f99a1" />
-
+| <img width="100%" alt="Main Dashboard Screenshot" src="https://github.com/user-attachments/assets/0752a002-4b12-4663-8abf-c51eb3871b3c" /> | <img width="100%" alt="Analysis Mode Screenshot" src="https://github.com/user-attachments/assets/232efc16-46f6-4992-9908-7f68957f99a1" /> |
 | **Main Dashboard**<br>الواجهة الرئيسية المحسنة | **Analysis Mode**<br>وضع التحليل |
 
 ---
